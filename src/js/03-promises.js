@@ -1,5 +1,4 @@
 import Notiflix from 'notiflix';
-
 const form = document.querySelector('form.form');
 const options = {
   position: 'center-bottom',
